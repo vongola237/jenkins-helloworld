@@ -9,5 +9,3 @@ node {
         sh 'java Main'
     }
 }
-
-le tout premier jenkinsfile de vongola
